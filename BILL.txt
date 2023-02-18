@@ -1,0 +1,14 @@
+******************** ABC STATIONARY ********************
+
+ITEM-ID  ITEM-NAME           PRICE  QUANTITY  AMOUNT
+
+ST-001   PENCIL              5      1         5
+ST-002   PEN                 10     1         10
+ST-003   GEOMETRY BOX        100    1         100
+ST-004   POUCH               50     1         50
+ST-005   SHEET(A2 SIZE)      10     1         10
+ST-006   TAPE                15     1         15
+ST-007   STICKERS            10     1         10
+ST-008   MINI DRAFTER        250    1         250
+ST-009   INK POT             30     1         30
+                                      Total - 480
